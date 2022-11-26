@@ -1,0 +1,62 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to top, #743497 0%, #3c47af 100%);
+
+}
+
+div {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+img {
+    float: bottom;
+    margin: auto;
+    width: 80%;
+    color:rgb(233, 227, 240);
+}
+
+
+.input1 {
+    border-width: 10px;
+    margin: 0;
+    color:rgb(232, 223, 240);
+}
+
+.floated {
+    font-size: medium;
+    font-family: arial;
+    float: left;
+    color:rgb(223, 212, 232);
+}
+
+.floated2 {
+    font-size: medium;
+    font-family: arial;
+    position: relative;
+    right: -10%;
+    color:rgb(214, 205, 223);
+}
+.input4
+{
+    color:rgb(232, 223, 240);
+}
+.textarea
+{
+    width:70%;
+    color:rgb(232, 223, 240);
+}
+.picture
+{
+    color:rgb(232, 223, 240);
+}
+input[text]
+{
+    width:100%;
+}
+.box
+{
+    width:70%;
+}
