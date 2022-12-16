@@ -1,0 +1,25 @@
+<html>
+    <body>
+        <input type="button" value="1st input" onclick="alert(X)">
+        <input type="button" value="2nd input" onclick="alert(Y)">
+        <script>
+            var X,Y;
+            X=parseInt(window.prompt('please enter a number'));
+            Y=parseInt(window.prompt('please enter a number')); 
+            if(X>Y){
+                document.body.style.backgroundColor='lightblue';
+                document.writeln(X+">"+Y);
+            }
+            else if(X<Y)
+            {
+                document.body.style.backgroundColor='lightgreen';
+                document.writeln(X+"<"+Y);
+            }
+            else if(X==Y)
+            {
+                document.body.style.backgroundColor='lightyellow';
+                document.writeln(X+"=="+Y);
+            }
+        </script>
+    </body>
+</html>
