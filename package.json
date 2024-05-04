@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://eeelsa1.github.io"
   },
-  "homepage": "https://eeelsa1.github.io/eeelsa1.github.io",
+  "homepage": "https://eeelsa1.github.io",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2",
