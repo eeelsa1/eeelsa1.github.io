@@ -1,5 +1,5 @@
 {
-  "name": "simplefolio",
+  "name": "eeelsa1.github.io",
   "version": "1.0.1",
   "private": "true",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobiwave/simplefolio"
+    "url": "git+https://eeelsa1.github.io"
   },
   "keywords": [],
   "author": "Jacobo Martinez",
@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://eeelsa1.github.io"
   },
-  "homepage": "https://eeelsa1.github.io/eeelsa1.github.io",
+  "homepage": "https://eeelsa1.github.io",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2",
